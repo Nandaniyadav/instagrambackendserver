@@ -22,4 +22,3 @@ app.listen(process.env.PORT||8080,async()=>{
     console.log("connected to db")
     console.log(` server is runnig ${process.env.PORT}`)
 })
-
